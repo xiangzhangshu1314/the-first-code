@@ -3,6 +3,7 @@
 	padding: 0;
 	list-style: none;
 }
+body{background-color:#f4f4f4;}
 .bTi{text-align: center;margin-top: 5%;}
 .tTu{position: relative;
 	height: 100px;width:100px;margin: 0 auto;
@@ -17,7 +18,7 @@
 	height: 16px;width: 16px;background-color: black;left: 65%;top: 38%;}
 .tTu div:nth-child(3){position: absolute;
 	height: 32px;width: 32px;background-color: black;left: 28%; top: 59%;
-	color: #fff;text-align: center;line-height: 32px;
+	color: #f4f4f4;text-align: center;line-height: 32px;
 	}
 .tTu div:last-child{position: absolute;
 	height: 16px;width: 16px;background-color: black;left: 65%; top: 59%;
